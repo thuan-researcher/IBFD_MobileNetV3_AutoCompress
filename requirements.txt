@@ -1,0 +1,7 @@
+tqdm
+torch
+torchvision
+nni
+thop
+pillow
+numpy
